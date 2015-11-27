@@ -1,6 +1,6 @@
 # BookMama - an E-learning platform built on top of ASP.NET Web Forms
 
-![BookMama Home Page](https://github.com/aldwyn/bookmama/blob/master/homapage.png "BookMama Home Page")
+![BookMama Home Page](https://github.com/aldwyn/bookmama/blob/master/homepage.png "BookMama Home Page")
 
 ![BookMama Lecture View](https://github.com/aldwyn/bookmama/blob/master/lectureview.png "Lecture View")
 
