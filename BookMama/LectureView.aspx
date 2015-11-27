@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="LectureView.aspx.cs" Inherits="BookMama.LectureView" %>
+﻿<%@ Page Title="Lecture View" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="LectureView.aspx.cs" Inherits="BookMama.LectureView" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <div class="page-header">
